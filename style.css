@@ -1,0 +1,16 @@
+
+
+body {
+  background-color:#f5cb0f;
+  color: white;
+  font-size: 12;
+  font-family: tahoma;
+  text-align: left;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-family: verdana;
+  font-size: 40;
+  font-weight: bold;
+}
